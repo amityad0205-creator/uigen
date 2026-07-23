@@ -1,0 +1,30 @@
+- generic [active] [ref=f9e1]:
+  - status [ref=f9e2]
+  - generic [ref=f9e3]:
+    - banner [ref=f9e4]:
+      - link [ref=f9e5] [cursor=pointer]:
+        - /url: https://www.haven.com
+        - img "Haven" [ref=f9e6]
+    - generic [ref=f9e8]:
+      - button [ref=f9e9] [cursor=pointer]:
+        - img "go back" [ref=f9e10]
+        - text: Go back
+      - heading "Log in to your account" [level=2] [ref=f9e11]
+      - generic [ref=f9e12]:
+        - generic [ref=f9e14]:
+          - textbox "Email address" [ref=f9e15]
+          - generic [ref=f9e16]: Email address
+        - generic [ref=f9e18]:
+          - textbox "Password" [ref=f9e19]
+          - generic [ref=f9e20]: Password
+        - textbox [ref=f9e21]
+        - link "Forgot password?" [ref=f9e22] [cursor=pointer]:
+          - /url: /forgot-password
+        - button "Log in" [ref=f9e23] [cursor=pointer]
+      - link "Create an account" [ref=f9e25] [cursor=pointer]:
+        - /url: /register
+      - paragraph [ref=f9e28]: or
+      - paragraph [ref=f9e29]:
+        - link "Manage booking without an account" [ref=f9e30] [cursor=pointer]:
+          - /url: https://www.haven.com/my-account/lookup-your-booking
+  - alert [ref=f9e31]

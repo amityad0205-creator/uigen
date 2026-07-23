@@ -1,0 +1,50 @@
+[    1811ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_2ce9398a._.js:16383
+[    2302ms] [LOG] [Fast Refresh] done in NaNms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:14847
+[    2403ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:14983
+[    2556ms] [LOG] [Fast Refresh] done in 255ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:14847
+[80212685ms] [VERBOSE] [DOM] Password field is not contained in a form: (More info: https://goo.gl/9p2vKq) %o @ https://eportal.incometax.gov.in/iec/foservices/#/login/password:0
+[80280922ms] [VERBOSE] [DOM] Password field is not contained in a form: (More info: https://goo.gl/9p2vKq) %o @ https://eportal.incometax.gov.in/iec/foservices/#/eVerify:0
+[80280922ms] [VERBOSE] [DOM] Password field is not contained in a form: (More info: https://goo.gl/9p2vKq) %o @ https://eportal.incometax.gov.in/iec/foservices/#/eVerify:0
+[80280922ms] [VERBOSE] [DOM] Password field is not contained in a form: (More info: https://goo.gl/9p2vKq) %o @ https://eportal.incometax.gov.in/iec/foservices/#/eVerify:0
+[80280922ms] [VERBOSE] [DOM] Password field is not contained in a form: (More info: https://goo.gl/9p2vKq) %o @ https://eportal.incometax.gov.in/iec/foservices/#/eVerify:0
+[80280922ms] [VERBOSE] [DOM] Password field is not contained in a form: (More info: https://goo.gl/9p2vKq) %o @ https://eportal.incometax.gov.in/iec/foservices/#/eVerify:0
+[80280922ms] [VERBOSE] [DOM] Password field is not contained in a form: (More info: https://goo.gl/9p2vKq) %o @ https://eportal.incometax.gov.in/iec/foservices/#/eVerify:0
+[81309877ms] [ERROR] Failed to load resource: the server responded with a status of 503 () @ https://www.incometax.gov.in/iec/foportal/base_url]themes/custom/itdbase/images/search-icon-prev.svg:0
+[81309984ms] [ERROR] Failed to load resource: the server responded with a status of 503 () @ https://www.incometax.gov.in/iec/foportal/base_url]themes/custom/itdbase/images/search-icon-prev.svg:0
+[81310012ms] TypeError: Cannot read properties of undefined (reading 'getComponent')
+    at https://www.incometax.gov.in/iec/foportal/sites/default/files/js/optimized/js_wr_YnPx82ayHM8hvIBe9h8ySlyaA1X20GzpZi17kaVk.TOMNS2ylYR9TeDFYXmV0kLahbu3hRLiRx5VF-3ZEc78.js?tildfh:113:22
+    at https://www.incometax.gov.in/iec/foportal/sites/default/files/js/optimized/js_wr_YnPx82ayHM8hvIBe9h8ySlyaA1X20GzpZi17kaVk.TOMNS2ylYR9TeDFYXmV0kLahbu3hRLiRx5VF-3ZEc78.js?tildfh:10:25
+    at https://www.incometax.gov.in/iec/foportal/sites/default/files/js/optimized/js_wr_YnPx82ayHM8hvIBe9h8ySlyaA1X20GzpZi17kaVk.TOMNS2ylYR9TeDFYXmV0kLahbu3hRLiRx5VF-3ZEc78.js?tildfh:11:2
+[81310371ms] TypeError: $(...).find(...).once is not a function
+    at Object.attach (https://www.incometax.gov.in/iec/foportal/sites/default/files/js/optimized/js_o7ilvPIDDaDo9oMQNS73sr3aLXY20Aajl08tsad5U5U.uvqxgY4QAeotXqvWACBrZv0Moq3yYTAjYlX81PCuG4A.js?tildfh:19:10)
+    at https://www.incometax.gov.in/iec/foportal/sites/default/files/js/optimized/js_V1oRQ-kJlXBZaEklOtPUe_1t8-l0RS94HJ3gsqxKikc.LMtm7OsF5tFcpxpmBexOddu30l-Xz-FUCSBPovfiEt8.js?v=10.3.9:166:24
+    at Array.forEach (<anonymous>)
+    at Drupal.attachBehaviors (https://www.incometax.gov.in/iec/foportal/sites/default/files/js/optimized/js_V1oRQ-kJlXBZaEklOtPUe_1t8-l0RS94HJ3gsqxKikc.LMtm7OsF5tFcpxpmBexOddu30l-Xz-FUCSBPovfiEt8.js?v=10.3.9:162:34)
+    at https://www.incometax.gov.in/iec/foportal/sites/default/files/js/optimized/js_KRjtvzl6UujB23-j_sF6dqOcbqg2z8ej98A8RU9bGsg.kjk12BMQYgWzHTlTsh40oAfzJ1jsDD0rpt092h-M9uk.js?v=10.3.9:32:12
+    at HTMLDocument.listener (https://www.incometax.gov.in/iec/foportal/sites/default/files/js/optimized/js_KRjtvzl6UujB23-j_sF6dqOcbqg2z8ej98A8RU9bGsg.kjk12BMQYgWzHTlTsh40oAfzJ1jsDD0rpt092h-M9uk.js?v=10.3.9:20:7)
+[81310397ms] TypeError: Cannot read properties of undefined (reading 'split')
+    at HTMLDocument.<anonymous> (https://www.incometax.gov.in/iec/foportal/sites/default/files/js/optimized/js_Sk-LIin9hwEes4Bu71h9YA7Dv6uMpIOec8JC3sZUX24.8iXBUV_zXfUr94pxJjHq3PMY7_Kr5V4GCBtWw1qc34g.js?tildfh:4880:38)
+    at e (https://www.incometax.gov.in/iec/foportal/sites/default/files/js/optimized/js_ddXuYgQSD3sP8UWEdZbwqZs_66iMsHEWFrutKpzkyoo.9_aliU8dGd2tb6OSsuzixeV4y_faTqgFtohetphbbj0.js?v=3.5.1:2:30005)
+    at t (https://www.incometax.gov.in/iec/foportal/sites/default/files/js/optimized/js_ddXuYgQSD3sP8UWEdZbwqZs_66iMsHEWFrutKpzkyoo.9_aliU8dGd2tb6OSsuzixeV4y_faTqgFtohetphbbj0.js?v=3.5.1:2:30307)
+[81310397ms] ReferenceError: $target is not defined
+    at HTMLAnchorElement.<anonymous> (https://www.incometax.gov.in/iec/foportal/sites/default/files/js/optimized/js_Sk-LIin9hwEes4Bu71h9YA7Dv6uMpIOec8JC3sZUX24.8iXBUV_zXfUr94pxJjHq3PMY7_Kr5V4GCBtWw1qc34g.js?tildfh:7514:2)
+    at S.each (https://www.incometax.gov.in/iec/foportal/sites/default/files/js/optimized/js_ddXuYgQSD3sP8UWEdZbwqZs_66iMsHEWFrutKpzkyoo.9_aliU8dGd2tb6OSsuzixeV4y_faTqgFtohetphbbj0.js?v=3.5.1:2:2976)
+    at S.fn.init.each (https://www.incometax.gov.in/iec/foportal/sites/default/files/js/optimized/js_ddXuYgQSD3sP8UWEdZbwqZs_66iMsHEWFrutKpzkyoo.9_aliU8dGd2tb6OSsuzixeV4y_faTqgFtohetphbbj0.js?v=3.5.1:2:1454)
+    at HTMLDocument.<anonymous> (https://www.incometax.gov.in/iec/foportal/sites/default/files/js/optimized/js_Sk-LIin9hwEes4Bu71h9YA7Dv6uMpIOec8JC3sZUX24.8iXBUV_zXfUr94pxJjHq3PMY7_Kr5V4GCBtWw1qc34g.js?tildfh:7513:116)
+    at e (https://www.incometax.gov.in/iec/foportal/sites/default/files/js/optimized/js_ddXuYgQSD3sP8UWEdZbwqZs_66iMsHEWFrutKpzkyoo.9_aliU8dGd2tb6OSsuzixeV4y_faTqgFtohetphbbj0.js?v=3.5.1:2:30005)
+    at t (https://www.incometax.gov.in/iec/foportal/sites/default/files/js/optimized/js_ddXuYgQSD3sP8UWEdZbwqZs_66iMsHEWFrutKpzkyoo.9_aliU8dGd2tb6OSsuzixeV4y_faTqgFtohetphbbj0.js?v=3.5.1:2:30307)
+[81310397ms] TypeError: jQuery(...).once is not a function
+    at HTMLDocument.<anonymous> (https://www.incometax.gov.in/iec/foportal/sites/default/files/js/optimized/js_Ycx_k98C9rWPMvERYgJLz5N-gWkb0H8BVCbs9SGwyuE.TyAzPXy2d3UOp7E1rhsD2U5ewxTQitced8Fwf1BKPIQ.js?tildfh:709:29)
+    at e (https://www.incometax.gov.in/iec/foportal/sites/default/files/js/optimized/js_ddXuYgQSD3sP8UWEdZbwqZs_66iMsHEWFrutKpzkyoo.9_aliU8dGd2tb6OSsuzixeV4y_faTqgFtohetphbbj0.js?v=3.5.1:2:30005)
+    at t (https://www.incometax.gov.in/iec/foportal/sites/default/files/js/optimized/js_ddXuYgQSD3sP8UWEdZbwqZs_66iMsHEWFrutKpzkyoo.9_aliU8dGd2tb6OSsuzixeV4y_faTqgFtohetphbbj0.js?v=3.5.1:2:30307)
+[81310397ms] TypeError: $(...).once is not a function
+    at HTMLDocument.<anonymous> (https://www.incometax.gov.in/iec/foportal/sites/default/files/js/optimized/js_Ycx_k98C9rWPMvERYgJLz5N-gWkb0H8BVCbs9SGwyuE.TyAzPXy2d3UOp7E1rhsD2U5ewxTQitced8Fwf1BKPIQ.js?tildfh:9:32)
+    at e (https://www.incometax.gov.in/iec/foportal/sites/default/files/js/optimized/js_ddXuYgQSD3sP8UWEdZbwqZs_66iMsHEWFrutKpzkyoo.9_aliU8dGd2tb6OSsuzixeV4y_faTqgFtohetphbbj0.js?v=3.5.1:2:30005)
+    at t (https://www.incometax.gov.in/iec/foportal/sites/default/files/js/optimized/js_ddXuYgQSD3sP8UWEdZbwqZs_66iMsHEWFrutKpzkyoo.9_aliU8dGd2tb6OSsuzixeV4y_faTqgFtohetphbbj0.js?v=3.5.1:2:30307)
+[81310398ms] ReferenceError: latest_news_date_label is not defined
+    at HTMLDivElement.<anonymous> (https://www.incometax.gov.in/iec/foportal/sites/default/files/js/optimized/js_Sk-LIin9hwEes4Bu71h9YA7Dv6uMpIOec8JC3sZUX24.8iXBUV_zXfUr94pxJjHq3PMY7_Kr5V4GCBtWw1qc34g.js?tildfh:6573:45)
+    at S.each (https://www.incometax.gov.in/iec/foportal/sites/default/files/js/optimized/js_ddXuYgQSD3sP8UWEdZbwqZs_66iMsHEWFrutKpzkyoo.9_aliU8dGd2tb6OSsuzixeV4y_faTqgFtohetphbbj0.js?v=3.5.1:2:2976)
+    at S.fn.init.each (https://www.incometax.gov.in/iec/foportal/sites/default/files/js/optimized/js_ddXuYgQSD3sP8UWEdZbwqZs_66iMsHEWFrutKpzkyoo.9_aliU8dGd2tb6OSsuzixeV4y_faTqgFtohetphbbj0.js?v=3.5.1:2:1454)
+    at HTMLDocument.<anonymous> (https://www.incometax.gov.in/iec/foportal/sites/default/files/js/optimized/js_Sk-LIin9hwEes4Bu71h9YA7Dv6uMpIOec8JC3sZUX24.8iXBUV_zXfUr94pxJjHq3PMY7_Kr5V4GCBtWw1qc34g.js?tildfh:6566:75)
+    at e (https://www.incometax.gov.in/iec/foportal/sites/default/files/js/optimized/js_ddXuYgQSD3sP8UWEdZbwqZs_66iMsHEWFrutKpzkyoo.9_aliU8dGd2tb6OSsuzixeV4y_faTqgFtohetphbbj0.js?v=3.5.1:2:30005)
+    at t (https://www.incometax.gov.in/iec/foportal/sites/default/files/js/optimized/js_ddXuYgQSD3sP8UWEdZbwqZs_66iMsHEWFrutKpzkyoo.9_aliU8dGd2tb6OSsuzixeV4y_faTqgFtohetphbbj0.js?v=3.5.1:2:30307)

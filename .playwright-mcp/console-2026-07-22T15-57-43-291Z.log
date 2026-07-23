@@ -1,0 +1,7 @@
+[     185ms] [WARNING]  [33m[1m⚠[22m[39m Runtime config is deprecated and will be removed in Next.js 16. Please remove the usage of "next/config" from your project. @ https://id.haven.com/_next/static/chunks/pages/_app-b0d85e0208b0a8e2.js:0
+[   10048ms] [WARNING]  [33m[1m⚠[22m[39m Runtime config is deprecated and will be removed in Next.js 16. Please remove the usage of "next/config" from your project. @ https://www.haven.com/my-account/_next/static/chunks/pages/_app-a6f145171633a2d6.js:3
+[   10083ms] [WARNING] /!\ You are using legacy implementation. Please update your code: use createWrapper() and wrapper.useWrappedStore(). @ https://www.haven.com/my-account/_next/static/chunks/pages/_app-a6f145171633a2d6.js:10
+[   10595ms] [INFO] RTS: shouldLoadV2 - sw: true, bc: true, sse: true, ws: true, fetch: true, localStorage: true @ https://rts-static-prod.freshworksapi.com/euc/rts-min.js:1
+[   10595ms] [INFO] RTS: shouldLoadV2 - window.location.hostname: teamhaven.freshchat.com - proxyDomain: freshchat.com @ https://rts-static-prod.freshworksapi.com/euc/rts-min.js:1
+[   10595ms] [INFO] RTS: shouldLoadV2 - proxy configured: false @ https://rts-static-prod.freshworksapi.com/euc/rts-min.js:1
+[   10595ms] [LOG] RTS_LEGACY is being loaded for RTS-2.0.17 @ https://rts-static-prod.freshworksapi.com/euc/rts-min.js:1

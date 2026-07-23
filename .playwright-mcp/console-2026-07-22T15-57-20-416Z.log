@@ -1,0 +1,20 @@
+[    4859ms] [INFO] RTS: shouldLoadV2 - sw: true, bc: true, sse: true, ws: true, fetch: true, localStorage: true @ https://rts-static-prod.freshworksapi.com/euc/rts-min.js:1
+[    4859ms] [INFO] RTS: shouldLoadV2 - window.location.hostname: teamhaven.freshchat.com - proxyDomain: freshchat.com @ https://rts-static-prod.freshworksapi.com/euc/rts-min.js:1
+[    4859ms] [INFO] RTS: shouldLoadV2 - proxy configured: false @ https://rts-static-prod.freshworksapi.com/euc/rts-min.js:1
+[    4859ms] [LOG] RTS_LEGACY is being loaded for RTS-2.0.17 @ https://rts-static-prod.freshworksapi.com/euc/rts-min.js:1
+[    6436ms] [INFO] RTS: shouldLoadV2 - sw: true, bc: true, sse: true, ws: true, fetch: true, localStorage: true @ https://rts-static-prod.freshworksapi.com/euc/rts-min.js:1
+[    6436ms] [INFO] RTS: shouldLoadV2 - window.location.hostname: teamhaven.freshchat.com - proxyDomain: freshchat.com @ https://rts-static-prod.freshworksapi.com/euc/rts-min.js:1
+[    6436ms] [INFO] RTS: shouldLoadV2 - proxy configured: false @ https://rts-static-prod.freshworksapi.com/euc/rts-min.js:1
+[    6436ms] [LOG] RTS_LEGACY is being loaded for RTS-2.0.17 @ https://rts-static-prod.freshworksapi.com/euc/rts-min.js:1
+[    7602ms] ReferenceError: exponea is not defined
+    at <anonymous>:1:1
+    at https://www.googletagmanager.com/gtm.js?id=GTM-N6NJZ3L&gtm_auth=-OASwLv6AryzioLgeSgYNg&gtm_preview=env-2:1005:429
+    at sS (https://www.googletagmanager.com/gtm.js?id=GTM-N6NJZ3L&gtm_auth=-OASwLv6AryzioLgeSgYNg&gtm_preview=env-2:1007:31)
+    at Kd.rS (https://www.googletagmanager.com/gtm.js?id=GTM-N6NJZ3L&gtm_auth=-OASwLv6AryzioLgeSgYNg&gtm_preview=env-2:1004:95)
+    at Kd.<anonymous> (https://www.googletagmanager.com/gtm.js?id=GTM-N6NJZ3L&gtm_auth=-OASwLv6AryzioLgeSgYNg&gtm_preview=env-2:412:405)
+    at k.apply (https://www.googletagmanager.com/gtm.js?id=GTM-N6NJZ3L&gtm_auth=-OASwLv6AryzioLgeSgYNg&gtm_preview=env-2:332:465)
+    at gb (https://www.googletagmanager.com/gtm.js?id=GTM-N6NJZ3L&gtm_auth=-OASwLv6AryzioLgeSgYNg&gtm_preview=env-2:295:711)
+    at eb (https://www.googletagmanager.com/gtm.js?id=GTM-N6NJZ3L&gtm_auth=-OASwLv6AryzioLgeSgYNg&gtm_preview=env-2:295:462)
+    at Kd.<anonymous> (https://www.googletagmanager.com/gtm.js?id=GTM-N6NJZ3L&gtm_auth=-OASwLv6AryzioLgeSgYNg&gtm_preview=env-2:356:473)
+    at k.apply (https://www.googletagmanager.com/gtm.js?id=GTM-N6NJZ3L&gtm_auth=-OASwLv6AryzioLgeSgYNg&gtm_preview=env-2:332:465)
+[    7822ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://id.haven.com/identity/me:0

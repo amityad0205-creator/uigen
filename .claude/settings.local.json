@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash('/Applications/Google Chrome.app/Contents/MacOS/Google Chrome' --headless --disable-gpu --screenshot=/tmp/uigen-screenshot.png --window-size=1400,900 http://localhost:3000)",
+      "Bash(echo \"Exit: $?\")",
+      "Read(//tmp/**)",
+      "Bash(claude mcp *)",
+      "mcp__playwright"
+    ]
+  }
+}

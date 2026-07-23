@@ -1,0 +1,20 @@
+- generic [active] [ref=f5e1]:
+  - status [ref=f5e42]: Preferences updated
+  - generic [ref=f5e2]:
+    - banner [ref=f5e3]:
+      - link [ref=f5e4] [cursor=pointer]:
+        - /url: https://www.haven.com
+        - img "Haven" [ref=f5e5]
+    - generic [ref=f5e6]:
+      - heading "Let's Guide You to the Right Place" [level=1] [ref=f5e7]
+      - paragraph [ref=f5e8]: "You've landed somewhere unexpected, but not to worry, we've a great Haven experience for you just ahead! Select where to go next:"
+      - generic [ref=f5e9]:
+        - generic [ref=f5e10] [cursor=pointer]:
+          - img "Continue to haven.com" [ref=f5e11]
+          - link "Continue to haven.com" [ref=f5e13]:
+            - /url: https://www.haven.com/my-account/login-registration?returnUrl=https://www.haven.com
+        - generic [ref=f5e14] [cursor=pointer]:
+          - img "Continue to the Ownership hub" [ref=f5e15]
+          - link "Continue to the Ownership hub" [ref=f5e17]:
+            - /url: https://ownerslogin.haven.com?redirect=https://owners.haven.com
+  - alert [ref=f5e18]

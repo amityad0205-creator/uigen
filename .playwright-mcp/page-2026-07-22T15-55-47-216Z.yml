@@ -1,0 +1,213 @@
+- generic [active] [ref=f5e1]:
+  - status [ref=f5e2]
+  - generic [ref=f5e3]:
+    - banner [ref=f5e4]:
+      - generic [ref=f5e5]:
+        - navigation [ref=f5e7]:
+          - generic [ref=f5e8]:
+            - generic [ref=f5e9]:
+              - link "Our parks" [ref=f5e10] [cursor=pointer]:
+                - /url: /parks
+              - button "Open Our parks menu" [ref=f5e11] [cursor=pointer]
+            - generic [ref=f5e12]:
+              - link "Holidays" [ref=f5e13] [cursor=pointer]:
+                - /url: /holidays
+              - button "Open Holidays menu" [ref=f5e14] [cursor=pointer]
+            - generic [ref=f5e15]:
+              - link "Touring and Camping" [ref=f5e16] [cursor=pointer]:
+                - /url: /touring-camping
+              - button "Open Touring and Camping menu" [ref=f5e17] [cursor=pointer]
+            - generic [ref=f5e18]:
+              - link "Caravan Ownership" [ref=f5e19] [cursor=pointer]:
+                - /url: /caravans-for-sale
+              - button "Open Caravan Ownership menu" [ref=f5e20] [cursor=pointer]
+            - generic [ref=f5e21]:
+              - link "Offers" [ref=f5e22] [cursor=pointer]:
+                - /url: /offers
+              - button "Open Offers menu" [ref=f5e23] [cursor=pointer]
+            - link "Help" [ref=f5e25] [cursor=pointer]:
+              - /url: https://support.haven.com
+            - link "Careers" [ref=f5e27] [cursor=pointer]:
+              - /url: https://jobs.haven.com
+        - link [ref=f5e28] [cursor=pointer]:
+          - /url: /
+          - img "Haven.com" [ref=f5e29]
+        - navigation "account menu" [ref=f5e30]:
+          - link "Shortlisting" [ref=f5e32] [cursor=pointer]:
+            - /url: /search-results/saved
+          - generic [ref=f5e34]:
+            - link "Amit Yadav AY" [ref=f5e35] [cursor=pointer]:
+              - /url: /my-account
+              - generic [ref=f5e36]: Amit Yadav
+              - generic [ref=f5e38]: AY
+            - button "Open account menu" [ref=f5e39] [cursor=pointer]
+    - main [ref=f5e40]:
+      - generic [ref=f5e45]:
+        - generic [ref=f5e46]: Welcome, Mr. Amit Yadav
+        - generic [ref=f5e50]:
+          - heading "Account" [level=2] [ref=f5e51]
+          - separator [ref=f5e52]
+          - generic [ref=f5e54]:
+            - img "Personal details" [ref=f5e55]
+            - generic [ref=f5e56]:
+              - link "Account details" [ref=f5e57] [cursor=pointer]:
+                - /url: /my-account/account-details
+              - img "More information" [ref=f5e58]
+            - paragraph [ref=f5e59]: Provide and update personal details and how we can reach you.
+        - button [ref=f5e61] [cursor=pointer]:
+          - generic [ref=f5e62]:
+            - text: Add a booking
+            - img "More information" [ref=f5e63]
+        - generic [ref=f5e64]:
+          - list [ref=f5e66]:
+            - listitem [ref=f5e67]:
+              - button "My holidays" [ref=f5e68] [cursor=pointer]
+            - listitem:
+              - button
+          - generic [ref=f5e70]:
+            - generic [ref=f5e71]:
+              - img "No-bookings" [ref=f5e72]
+              - paragraph [ref=f5e73]: You have no holidays booked yet.
+              - link "Search for holidays" [ref=f5e74] [cursor=pointer]:
+                - /url: https://www.haven.com
+            - generic [ref=f5e77]:
+              - generic [ref=f5e79]:
+                - generic [ref=f5e80]: Ownership
+                - generic [ref=f5e84]:
+                  - heading "Which Park is best for my dream holiday home?" [level=2] [ref=f5e85]
+                  - generic [ref=f5e86]:
+                    - generic [ref=f5e87]: Answer a few short questions and we’ll recommend some fantastic parks that would fit your ownership lifestyle.
+                    - link "Find my perfect park" [ref=f5e88] [cursor=pointer]:
+                      - /url: /steps-to-ownership-quiz?question=0&returnUrl=https://www.haven.com/my-account/dashboard
+              - generic [ref=f5e94]:
+                - heading "Festive breaks at Haven" [level=2] [ref=f5e95]
+                - generic [ref=f5e96]:
+                  - generic [ref=f5e97]: Book a family warmer for the winter as we open nine of our holiday parks for festive breaks this December, including the Christmas and New Year period!
+                  - link "Find out more" [ref=f5e98] [cursor=pointer]:
+                    - /url: https://www.haven.com/holidays/winter
+    - contentinfo [ref=f5e101]:
+      - generic [ref=f5e102]:
+        - generic [ref=f5e103]:
+          - generic [ref=f5e104]: © Haven 2026. All rights reserved
+          - list [ref=f5e105]:
+            - listitem [ref=f5e106]:
+              - link [ref=f5e107] [cursor=pointer]:
+                - /url: https://www.facebook.com/havenofficial
+                - img "Haven on Facebook" [ref=f5e108]
+            - listitem [ref=f5e109]:
+              - link [ref=f5e110] [cursor=pointer]:
+                - /url: https://www.tiktok.com/@havenofficial
+                - img "Haven on TikTok" [ref=f5e111]
+            - listitem [ref=f5e112]:
+              - link [ref=f5e113] [cursor=pointer]:
+                - /url: https://www.instagram.com/havenofficial
+                - img "Haven on Instagram" [ref=f5e114]
+            - listitem [ref=f5e115]:
+              - link [ref=f5e116] [cursor=pointer]:
+                - /url: https://www.youtube.com/user/havenholidays
+                - img "Haven on Youtube" [ref=f5e117]
+        - navigation [ref=f5e118]:
+          - generic [ref=f5e119]:
+            - paragraph [ref=f5e120]:
+              - link "Types of holiday" [ref=f5e121] [cursor=pointer]:
+                - /url: /holidays
+            - list [ref=f5e122]:
+              - listitem [ref=f5e123]:
+                - link "Camping holidays & touring" [ref=f5e124] [cursor=pointer]:
+                  - /url: /touring-camping
+              - listitem [ref=f5e125]:
+                - link "Weekend breaks" [ref=f5e126] [cursor=pointer]:
+                  - /url: /holidays/uk-breaks/weekend
+              - listitem [ref=f5e127]:
+                - link "UK family breaks" [ref=f5e128] [cursor=pointer]:
+                  - /url: /holidays/uk-breaks
+              - listitem [ref=f5e129]:
+                - link "Baby & toddler friendly holidays" [ref=f5e130] [cursor=pointer]:
+                  - /url: /holidays/family/baby-toddler
+              - listitem [ref=f5e131]:
+                - link "Summer holidays" [ref=f5e132] [cursor=pointer]:
+                  - /url: /holidays/summer
+              - listitem [ref=f5e133]:
+                - link "Half term holidays" [ref=f5e134] [cursor=pointer]:
+                  - /url: /holidays/half-term
+              - listitem [ref=f5e135]:
+                - link "Holiday inspiration" [ref=f5e136] [cursor=pointer]:
+                  - /url: /holiday-inspiration
+              - listitem [ref=f5e137]:
+                - link "UK beaches" [ref=f5e138] [cursor=pointer]:
+                  - /url: /beaches
+              - listitem [ref=f5e139]:
+                - link "Things to do" [ref=f5e140] [cursor=pointer]:
+                  - /url: /things-to-do
+              - listitem [ref=f5e141]:
+                - link "Group breaks" [ref=f5e142] [cursor=pointer]:
+                  - /url: /holidays/groups
+              - listitem [ref=f5e143]:
+                - link "Self catering holidays" [ref=f5e144] [cursor=pointer]:
+                  - /url: /holidays/self-catering
+          - generic [ref=f5e145]:
+            - paragraph [ref=f5e146]:
+              - generic [ref=f5e147]: Helpful links
+            - list [ref=f5e148]:
+              - listitem [ref=f5e149]:
+                - link "Payments" [ref=f5e150] [cursor=pointer]:
+                  - /url: /payments
+              - listitem [ref=f5e151]:
+                - link "Help & FAQs" [ref=f5e152] [cursor=pointer]:
+                  - /url: https://support.haven.com
+              - listitem [ref=f5e153]:
+                - link "Contact us" [ref=f5e154] [cursor=pointer]:
+                  - /url: /support/opening-hours
+              - listitem [ref=f5e155]:
+                - link "Site Map" [ref=f5e156] [cursor=pointer]:
+                  - /url: /support/sitemap
+          - generic [ref=f5e157]:
+            - paragraph [ref=f5e158]:
+              - link "About Haven" [ref=f5e159] [cursor=pointer]:
+                - /url: /about-us
+            - list [ref=f5e160]:
+              - listitem [ref=f5e161]:
+                - link "Awards" [ref=f5e162] [cursor=pointer]:
+                  - /url: /about-us/awards
+              - listitem [ref=f5e163]:
+                - link "Partner with us" [ref=f5e164] [cursor=pointer]:
+                  - /url: /about-us/partner-with-us
+              - listitem [ref=f5e165]:
+                - link "Careers at Haven" [ref=f5e166] [cursor=pointer]:
+                  - /url: https://jobs.haven.com
+              - listitem [ref=f5e167]:
+                - link "Modern Slavery Act" [ref=f5e168] [cursor=pointer]:
+                  - /url: /about-us/modern-slavery
+              - listitem [ref=f5e169]:
+                - link "Caring for the environment" [ref=f5e170] [cursor=pointer]:
+                  - /url: /about-us/sustainability
+              - listitem [ref=f5e171]:
+                - link "Media Enquiries" [ref=f5e172] [cursor=pointer]:
+                  - /url: https://news.haven.com
+              - listitem [ref=f5e173]:
+                - link "Corporate Site" [ref=f5e174] [cursor=pointer]:
+                  - /url: https://corporate.haven.com
+          - generic [ref=f5e175]:
+            - paragraph [ref=f5e176]:
+              - generic [ref=f5e177]: Policies
+            - list [ref=f5e178]:
+              - listitem [ref=f5e179]:
+                - link "Accessibility" [ref=f5e180] [cursor=pointer]:
+                  - /url: /support/accessibility
+              - listitem [ref=f5e181]:
+                - button "Manage Consent" [ref=f5e182] [cursor=pointer]
+              - listitem [ref=f5e183]:
+                - link "Caravan Ownership Policies" [ref=f5e184] [cursor=pointer]:
+                  - /url: /support/caravan-ownership-policies
+              - listitem [ref=f5e185]:
+                - link "Cookies Policy" [ref=f5e186] [cursor=pointer]:
+                  - /url: /support/cookies-policy
+              - listitem [ref=f5e187]:
+                - link "Privacy policy" [ref=f5e188] [cursor=pointer]:
+                  - /url: /support/privacy-policy
+              - listitem [ref=f5e189]:
+                - link "Terms and conditions" [ref=f5e190] [cursor=pointer]:
+                  - /url: /support/terms-and-conditions
+  - alert [ref=f5e191]: /dashboard
+  - iframe [ref=f5e193]:
+    
